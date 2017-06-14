@@ -1,0 +1,95 @@
+Table 7. Basic physical data of the major satellites of the planets and Pluto. The table contains all
+satellites with mean radii exceeding 100 km and the two Martian satellites. R is the mean radius, M
+the mass, ρ the mean density, and P_orb the sidereal rotation period. The satellites are ordered by their
+corresponding central planets (Earth, Mars, Jupiter, Saturn, Uranus, Neptune, Pluto) divided by horizontal
+lines and by their distance from the primary. The last column indicates the satellites’ spin states. ’s’
+stands for ’synchronous’, i.e. the orbital period P_orb being equal to the rotational period; and ’c’ stands
+for ’chaotic’. References: [08JPL, 07Sei]. Data on the small inner satellites and outer irregular satellites
+are given in Tables 9–19.
+
+satellite, primary, R [km], GM [km^3 s^−2], M [10^20 kg], ρ [kg m^−3], P_orb [days], Spin
+Luna, Earth, 1737.4 ± 1, 4902.801 ± 0.001, 734.8, 3344 ± 5, 27.322, s
+Phobos, Mars, 11.1 ± 0.15, 0.0007158 ± 0.0000005, 1.1 × 10^−4, 1872 ± 76, 0.319, s
+Deimos, Mars, 6.2 ± 0.18, 0.000098 ± 0.000007, 1.5 × 10^−5, 1471 ± 166, 1.262, s
+Io, Jupiter, 1821.46, 5959.916 ± 0.012, 893.2, 3528 ± 6, 1.769, s
+Europa, Jupiter, 1562.09, 3202.739 ± 0.009, 480.0, 3013 ± 5, 3.551, s
+Ganymede, Jupiter, 2632.345, 9887.834 ± 0.017, 1481.9, 1942 ± 5, 7.155, s
+Callisto, Jupiter, 2409.3, 7179.289 ± 0.013, 1075.9, 1834 ± 4, 16.69, s
+Mimas, Saturn, 198.2 ± 0.5, 2.530 ± 0.012, 0.38, 1152 ± 27, 0.942, s
+Enceladus, Saturn, 252.1 ± 0.2, 7.210 ± 0.011, 1.1, 1606 ± 12, 1.370, s
+Tethys, Saturn, 533.0 ± 1.4, 41.210 ± 0.007, 6.2, 956 ± 8, 1.888, s
+Dione, Saturn, 561.7 ± 0.9, 73.113 ± 0.003, 11.0, 1469 ± 12, 2.737, s
+Rhea, Saturn, 764.3 ± 1.8, 154.07 ± 0.16, 23.1, 1233 ± 10, 4.518, s
+Titan, Saturn, 2575 ± 2, 8978.19 ± 0.06, 1345.5, 1880 ± 4, 15.95, s
+Hyperion, Saturn, 133 ± 8, 0.37 ± 0.02, 5.6 × 10^−2, 569 ± 108, 21.28, c
+Iapetus, Saturn, 735.6 ± 3.0, 120.50 ± 0.03, 18.1, 1088 ± 18, 79.33, s
+Phoebe, Saturn, 106.7 ± 1, 0.5531 ± 0.0006, 8.3 × 10^−2, 1633 ± 49, 550.31, s
+Miranda, Uranus, 235.8 ± 0.7, 4.4 ± 0.5, 0.66, 1201 ± 137, 1.413, s
+Ariel, Uranus, 578.9 ± 0.6, 90.3 ± 8.0, 13.5, 1665 ± 147, 2.520, s
+Umbriel, Uranus, 584.7 ± 2.8, 78.2 ± 9.0, 11.7, 1400 ± 163, 4.144, s
+Titania, Uranus, 788.9 ± 1.8, 235.3 ± 6.0, 35.3, 1715 ± 44, 8.706, s
+Oberon, Uranus, 761.4 ± 2.6, 201.1 ± 5.0, 30.1, 1630 ± 43, 13.46, s
+Proteus, Neptune, 208 ± 8, 3.36, 0.5, 1300, 1.122, s
+Triton, Neptune, 1352.6 ± 2.4, 1427.9 ± 3.5, 214.0, 2061 ± 7, 5.877, s
+Nereid, Neptune, 170 ± 25, 2.06, 0.3, 1500, 360.14, s
+Charon, Pluto, 605 ± 8, 108. ± 6., 16.2, 1853 ± 158, 6.387, s
+
+
+
+Table 8. Mean orbital elements of the major satellites of the planets and Pluto at epoch (1) 2000 Jan.
+1.50 TT, (2) 1950 Jan. 1.00 TT, (3) 1997 Jan. 16.00 TT, (4) 2004 Jan. 1.00 TT, (5) 1980 Jan. 1.0 TT, (6)
+1989 Aug. 25.00 TT, (7) 1989 Aug. 18.50 TT. The table contains all satellites with mean radii exceeding
+100 km and the two Martian satellites. a is the semi-major axis, e the eccentricity, ω the argument of
+pericenter, M the mean anomaly, i the inclination, and Ω the longitude of ascending node. The elements of
+the Moon are referred to the ecliptic; the one’s of the Uranian satellites to the planet’s equator. Charon’s
+barycentric elements are referred to its mean orbit: ICRF right ascension = 133.05142◦, ICRF declination
+= –6.17674◦. All other elements are referred to the local Laplace planes which are in most cases (close to
+the planet) only slightly diﬀerent from the equatorial plane of the planet. In cases where the elements are
+referred to the local Laplace planes the declination, Dec., and right ascension, R.A., of the plane’s pole
+is given with respect to the ICRF. The last column, tilt, gives the angle between the planet equator and
+the Laplace plane. Reference: [08JPL] and references therein. Data on the small inner satellites and outer
+irregular satellites are given in Tables 9–19.
+
+satellite, TT, a [km], e, ω [deg], M [deg], i [deg], Ω [deg], Dec. [deg], R.A. [deg], Tilt [deg]
+Luna, 2000 Jan 1.50, 384400, 0.0554, 318.15, 135.27, 5.16, 125.08, 0, 0, 0
+Phobos, 1950 Jan 1.00, 9380, 0.0151, 150.247, 92.474, 1.075, 164.931, 317.724, 52.924, 0.046
+Deimos, 1950 Jan 1.00, 23460, 0.0002, 290.496, 296.230, 1.793, 339.600, 316.700, 53.564, 0.897
+Io, 1997 Jan 16.00, 421800, 0.0041, 84.129, 342.021, 0.036, 43.977, 268.057, 64.495, 0.000
+Europa, 1997 Jan 16.00, 671100, 0.0094, 88.970, 171.016, 0.466, 219.106, 268.084, 64.506, 0.016
+Ganymede, 1997 Jan 16.00, 1070400, 0.0013, 192.417, 317.540, 0.177, 63.552, 268.168, 64.543, 0.068
+Callisto, 1997 Jan 16.00, 1882700, 0.0074, 52.643, 181.408, 0.192, 298.848, 268.639, 64.749, 0.356
+Mimas, 2004 Jan 1.00, 185540, 0.0196, 14.352, 255.312, 1.572, 153.152, 40.590, 83.539, 0.001
+Enceladus, 2004 Jan 1.00, 238040, 0.0047, 211.923, 197.047, 0.009, 93.204, 40.587, 83.539, 0.001
+Tethys, 2004 Jan 1.00, 294670, 0.0001, 262.845, 189.003, 1.091, 330.882, 40.581, 83.539, 0.002
+Dione, 2004 Jan 1.00, 377420, 0.0022, 168.820, 65.990, 0.028, 168.909, 40.554, 83.542, 0.005
+Rhea, 2004 Jan 1.00, 527070, 0.0010, 256.609, 311.551, 0.331, 311.531, 40.387, 83.556, 0.029
+Titan, 2004 Jan 1.00, 1221870, 0.0288, 185.671, 15.154, 0.280, 24.502, 36.470, 83.936, 0.600
+Hyperion, 2004 Jan 1.00, 1500880, 0.0274, 324.183, 295.906, 0.630, 264.022, 37.258, 83.819, 0.461
+Iapetus, 2004 Jan 1.00, 3560840, 0.0283, 275.921, 356.029, 7.489, 75.831, 288.818, 78.667, 14.968
+Phoebe, 2004 Jan 1.00, 12947780, 0.1635, 345.582, 287.593, 175.986, 241.570, 277.897, 67.124, 26.891
+Miranda, 1980 Jan 1.0, 129900, 0.0013, 68.312, 311.330, 4.338, 326.438, 0, 0, 0
+Ariel, 1980 Jan 1.0, 190900, 0.0012, 115.349, 39.481, 0.041, 22.394, 0, 0, 0
+Umbriel, 1980 Jan 1.0, 266000, 0.0039, 84.709, 12.469, 0.128, 33.485, 0, 0, 0
+Titania, 1980 Jan 1.0, 436300, 0.0011, 284.400, 24.614, 0.079, 99.771, 0, 0, 0
+Oberon, 1980 Jan 1.0, 583500, 0.0014, 104.400, 283.088, 0.068, 279.771, 0, 0, 0
+Proteus, 1989 Aug 18.50, 117647, 0.0005, 301.706, 117.050, 0.026, 162.690, 299.583, 42.417, 0.479
+Triton, 1989 Aug 25.00, 354800, 0.0000, 344.046, 264.775, 156.834, 172.431, 299.452, 43.395, 0.513
+Nereid, 1989 Aug 25.00, 5513400, 0.7512, 280.830, 359.341, 7.232, 334.762, 282.462, 75.854, 33.783
+Charon, 2000 Jan 1.50, 17536, 0.0022, 71.255, 147.848, 0.001, 85.187, 0, 0, 0
+
+
+
+Table 19. Mean semi-major axis a, mean eccentricity e, and sidereal orbital period P of dwarf planet
+satellites. With inclinations of about 0.2 deg referred to Charon’s mean orbital plane, all three satellites
+of Pluto lie almost in the same plane. Assuming the density of Charon for Nix and Hydra, the radii of the
+latter are estimated to be 88 and 72 km, respectively. Assuming the albedo of Eris for Dysnomia, the radius
+of the latter is estimated to be 75 km. References: [08JPL, 05Bro, 08Bro, 08Gre, 08Tho, 06Bar, 09Rag].
+More data on Charon can be found in Table 7 and Table 8.
+
+satellite, primary, a [km], e, P_orb [days], R [km], M [10^20 kg]
+Charon, Pluto, 17536, 0.0022, 6.387, 604, 15.87
+Nix, Pluto, 48708, 0.0030, 24.8562 ± 00013, 19.67, 0.0005
+Hydra, Pluto, 64749, 0.0052, 38.2065 ± 0.0014, 22.5, 0.0005
+Dysnomia, Eris, 37350 ± 140, 0, 15.774 ± 0.002, 148.75, 0
+Namaka, Haumea, 25660, 0.25, 18.3, 75, 0.0179
+Hi’iaka, Haumea, 49880, 0.05, 49.4, 155, 0.179

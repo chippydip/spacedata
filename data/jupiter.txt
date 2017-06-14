@@ -1,0 +1,100 @@
+Table 9. Mean orbital elements and sizes of Jupiter’s small inner satellites at the epoch of 1997 Jan.
+16.00 TT referred to the local Laplace planes. a is the semi-major axis, e the eccentricity, ω the argument
+of pericenter, M the mean anomaly, i the inclination, and Ω the longitude of ascending node. P is the
+sidereal orbital period and R is the mean radius. Right ascension and declination of the Laplace plane pole
+with respect to the ICRF are given by 268.057^◦_ and 64.495^◦_, respectively. The angle between Jupiter’s
+equator and the Laplace plane is 0^◦_ for all four satellites. References: [08JPL, 07Sei].
+
+satellite, TT, a [km], e, ω [deg], M [deg], i [deg], Ω [deg], P_orb [days], R [km]
+Metis, 1997 Jan 16.00, 128000, 0.0012, 297.177, 276.047, 0.019, 146.912, 0.295, 21.5 ± 2.0
+Adrastea, 1997 Jan 16.00, 129000, 0.0018, 328.047, 135.673, 0.054, 228.378, 0.298, 8.2 ± 2.0
+Amalthea, 1997 Jan 16.00, 181400, 0.0032, 155.873, 185.194, 0.380, 108.946, 0.498, 83.45 ± 2.4
+Thebe, 1997 Jan 16.00, 221900, 0.0176, 234.269, 135.956, 1.080, 235.694, 0.675, 49.3 ± 2.0
+
+
+
+Table 10. Mean orbital elements and sizes of Jupiter’s small satellites with assigned IAU names at epoch
+(1) 2000 Jan. 1.00 TT, (2) 2002 May. 6.00 TT, (3) 2002 May. 6.00 TT, (4) 2003 Jun. 10.00 TT. a is
+the semi-major axis, e the eccentricity, and i the inclination. The latter is referred to the local Laplace
+planes. P is the sidereal orbital period and R is the satellite’s mean radius. The declination, Dec., and
+right ascension, R.A., of the Laplace plane’s pole are given with respect to the ICRF. The last column,
+tilt, gives the angle between the planet equator and the Laplace plane. Reference: [08JPL] and references
+therein.
+
+satellite, TT, a [km], e, i [deg], P_orb [days], R [km], R.A. [deg], Dec. [deg], Tilt [deg]
+Themisto, 2002 May 6.00, 7284000., 0.2428, 43.254, 130.02, 4.0, 272.709, 66.701, 2.924
+Leda, 2000 Jan 1.00, 11165000., 0.1636, 27.457, 240.92, 10, 271.668, 66.848, 2.788
+Himalia, 2000 Jan 1.00, 11461000., 0.1623, 27.496, 250.56, 85, 275.667, 67.429, 4.269
+Lysithea, 2000 Jan 1.00, 11717000., 0.1124, 28.302, 259.20, 18, 271.356, 67.115, 2.953
+Elara, 2000 Jan 1.00, 11741000., 0.2174, 26.627, 259.64, 43, 273.200, 68.246, 4.282
+Carpo, 2003 Jun 10.00, 17058000., 0.4316, 51.628, 456.30, 1.5, 273.325, 67.004, 3.311
+Euporie, 2002 May 6.00, 19304000., 0.1432, 145.767, 550.74, 1.0, 273.181, 66.708, 3.061
+Orthosie, 2002 May 6.00, 20720000., 0.2808, 145.921, 622.56, 1.0, 273.134, 66.956, 3.225
+Euanthe, 2002 May 6.00, 20797000., 0.2321, 148.910, 620.49, 1.5, 273.207, 66.739, 3.089
+Harpalyke, 2002 May 6.00, 20858000., 0.2269, 148.644, 623.32, 2.2, 273.235, 66.919, 3.225
+Praxidike, 2002 May 6.00, 20908000., 0.2311, 148.975, 625.39, 3.4, 273.018, 66.760, 3.051
+Thyone, 2002 May 6.00, 20939000., 0.2286, 148.509, 627.21, 2.0, 273.541, 66.846, 3.258
+Mneme, 2003 Jun 10.00, 21035000., 0.2301, 148.693, 620.04, 1.0, 273.243, 66.598, 3.004
+Iocaste, 2002 May 6.00, 21060000., 0.2158, 149.425, 631.60, 2.6, 273.218, 66.883, 3.194
+Helike, 2003 Jun 10.00, 21069000., 0.1506, 154.853, 626.32, 2.0, 273.287, 66.793, 3.149
+Hermippe, 2002 May 6.00, 21131000., 0.2096, 150.725, 633.90, 2.0, 273.271, 66.864, 3.195
+Thelxinoe, 2003 Jun 10.00, 21164000., 0.2194, 151.370, 628.09, 1.0, 273.335, 66.729, 3.119
+Ananke, 2000 Jan 1.00, 21276000., 0.2435, 148.889, 629.77, 14, 279.087, 66.152, 4.891
+Eurydome, 2002 May 6.00, 22865000., 0.2759, 150.274, 717.33, 1.5, 273.195, 66.716, 3.070
+Arche, 2003 Jun 10.00, 23355000., 0.2496, 165.017, 731.95, 1.5, 273.233, 66.797, 3.137
+Pasithee, 2002 May 6.00, 23004000., 0.2675, 165.138, 719.44, 1.0, 273.156, 66.761, 3.091
+Chaldene, 2002 May 6.00, 23100000., 0.2521, 165.190, 723.72, 1.9, 273.258, 66.763, 3.120
+Isonoe, 2002 May 6.00, 23155000., 0.2471, 165.272, 726.23, 1.9, 273.237, 66.798, 3.139
+Erinome, 2002 May 6.00, 23196000., 0.2664, 164.936, 728.46, 1.6, 273.208, 66.761, 3.105
+Kale, 2002 May 6.00, 23217000., 0.2599, 164.996, 729.47, 1.0, 273.325, 66.774, 3.147
+Aitne, 2002 May 6.00, 23229000., 0.2643, 165.091, 730.18, 1.5, 273.158, 66.812, 3.127
+Taygete, 2002 May 6.00, 23280000., 0.2525, 165.268, 732.41, 2.5, 273.156, 66.761, 3.090
+Kallichore, 2003 Jun 10.00, 23288000., 0.2503, 165.127, 728.73, 1.0, 273.295, 66.789, 3.149
+Eukelade, 2003 Jun 10.00, 23328000., 0.2634, 165.240, 730.47, 2.0, 273.244, 66.754, 3.110
+Carme, 2000 Jan 1.00, 23404000., 0.2533, 164.907, 734.17, 23, 272.620, 66.689, 2.897
+Kalyke, 2002 May 6.00, 23483000., 0.2471, 165.179, 742.06, 2.6, 273.223, 66.766, 3.112
+Sponde, 2002 May 6.00, 23487000., 0.3121, 150.998, 748.34, 1.0, 273.138, 66.737, 3.069
+Megaclite, 2002 May 6.00, 23493000., 0.4198, 152.766, 752.86, 2.7, 273.239, 66.767, 3.118
+Hegemone, 2003 Jun 10.00, 23577000., 0.3396, 154.186, 739.88, 1.5, 273.251, 66.734, 3.099
+Pasiphae, 2000 Jan 1.00, 23624000., 0.4090, 151.431, 743.63, 30, 273.440, 67.645, 3.835
+Cyllene, 2003 Jun 10.00, 23809000., 0.4115, 150.389, 752.00, 1.0, 273.399, 66.714, 3.127
+Sinope, 2000 Jan 1.00, 23939000., 0.2495, 158.109, 758.90, 19, 273.266, 66.880, 3.211
+Aoede, 2003 Jun 10.00, 23980000., 0.4311, 158.260, 761.50, 2.0, 273.306, 66.775, 3.142
+Autonoe, 2002 May 6.00, 24046000., 0.3168, 152.416, 760.95, 2.0, 273.181, 66.815, 3.136
+Callirrhoe, 2002 May 6.00, 24103000., 0.2829, 147.167, 758.77, 4.3, 272.836, 66.537, 2.844
+Kore, 2003 Jun 10.00, 24543000., 0.3245, 144.969, 779.17, 1.0, 273.997, 66.902, 3.428
+
+
+
+Table 11. Mean orbital elements and sizes of Jupiter’s small satellites without assigned IAU names at
+epoch 2002 May. 6.00 TT. a is the semi-major axis, e the eccentricity, and i the inclination. i is referred
+to the local Laplace planes. P is the sidereal orbital period and R is the mean radius. The declination,
+Dec., and right ascension, R.A., of the Laplace plane’s pole are given with respect to the ICRF. Tilt is the
+angle between the planet equator and the Laplace plane. References: [08JPL] and *[08She].
+
+satellite, TT, a [km], e, i [deg], P_orb [days], R [km], R.A. [deg], Dec. [deg], Tilt [deg]
+S/2000 J11, 2002 May 6.00, 12555000, 0.248, 28.30, 287.0, 2.0, 0, 0, 0
+S/2003 J2, 2002 May 6.00, 28455000., 0.4074, 157.321, 981.55, 1.0, 273.212, 66.862, 3.177
+S/2003 J3, 2002 May 6.00, 20224000., 0.1969, 147.541, 583.88, 1.0, 273.534, 66.855, 3.262
+S/2003 J4, 2002 May 6.00, 23933000., 0.3620, 149.574, 755.26, 1.0, 273.154, 66.748, 3.081
+S/2003 J5, 2002 May 6.00, 23498000., 0.2476, 165.239, 738.74, 2.0, 273.283, 66.805, 3.157
+S/2003 J9, 2002 May 6.00, 23388000., 0.2627, 165.076, 733.30, 0.5, 273.177, 66.779, 3.109
+S/2003 J10, 2002 May 6.00, 23044000., 0.4294, 165.069, 716.25, 1.0, 273.227, 66.798, 3.136
+S/2003 J12, 2002 May 6.00, 17833000., 0.4920, 151.104, 489.72, 0.5, 273.299, 66.911, 3.237
+S/2003 J15, 2002 May 6.00, 22630000., 0.1944, 146.551, 689.77, 1.0, 273.080, 66.311, 2.768
+S/2003 J16, 2002 May 6.00, 20956000., 0.2266, 148.512, 616.33, 1.0, 273.242, 66.591, 2.998
+S/2003 J17, 2002 May 6.00, 22983000., 0.2381, 164.921, 714.51, 1.0, 273.190, 66.782, 3.114
+S/2003 J18, 2002 May 6.00, 20426000., 0.0601, 145.908, 596.58, 1.0, 272.778, 66.632, 2.893
+S/2003 J19, 2002 May 6.00, 23535000., 0.2559, 165.154, 740.43, 1.0, 273.267, 66.795, 3.146
+S/2003 J23, 2002 May 6.00, 23566000., 0.2738, 146.397, 732.45, 1.0, 272.604, 66.531, 2.773
+
+
+
+Table 20. The rings of Jupiter. R is the radius, D the optical depth, A the albedo, and S the surface
+density [08NSS].
+
+Rings, R [km], D, A, S [kg m^−2]
+Halo, 100000 - 122000, 3 × 10^−6
+Main, 122000 - 129000, 5 × 10^−6, 0.015, 5 × 10^−5
+Gossamer (inner), 129000 - 182000, 1 × 10^−7
+Gossamer (outer), 182000 - 224900

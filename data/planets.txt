@@ -1,0 +1,82 @@
+Table 1. Basic physical data of the planets of the Solar System (more detailed data is given in the following
+subsections). R is the mean radius, M the mass, ρ the bulk density, P_rot the sidereal rotation period, P_orb
+the sidereal orbit period, and g, the equatorial gravitational acceleration at the surface. Negative rotational
+periods correspond to retrograde rotation. The radii of Jupiter, Saturn, Uranus and Neptune correspond
+to the one-bar surface and are not necessarily the appropriate values to be used in dynamical studies, e.g.
+radius and J_2 values should be always used in a consistent way. References: [92Sei, 07Sei, 95Yod].
+
+Planet, R [km], M [10^24 kg], ρ [kg m^−3], P_rot [days], P_orb [years], g [m s^−2]
+Mercury, 2439.7 ± 1.0, 0.3302, 5427, 56.6462, 0.2408467, 3.70
+Venus, 6051.8 ± 1.0, 4.8685, 5204, −243.01, 0.61519726, 8.87
+Earth, 6371.00 ± 0.01, 5.9736, 5515, 0.99726968, 1.0000174, 9.78
+Mars, 3389.50 ± 0.2, 0.64185, 3933, 1.02595675, 1.8808476, 3.69
+Jupiter, 69911 ± 6, 1898.6, 1326, 0.41354, 11.862615, 23.12
+Saturn, 58232 ± 6, 568.46, 687, 0.4375, 29.447498, 8.96
+Uranus, 25362 ± 7, 86.832, 1318, −0.65, 84.016846, 8.69
+Neptune, 24622 ± 19, 102.43, 1638, 0.768, 164.79132, 11.00
+
+
+
+Table 2. Mean orbital elements of the planets of the Solar System at the epoch of J2000 (Julian date
+JD 2451545.0) with respect to the mean ecliptic and equinox of J2000. a semi-major axis, e eccentricity,
+i inclination,  longitude of perihelion, Ω longitude of ascending node, λ mean longitude. Data for the
+Earth are actually for the Earth-Moon barycenter. Data taken from [99Mur], see also [92Sta].
+
+Planet, a [AU], e, i [deg],  [deg], Ω [deg], λ [deg]
+Mercury, 0.38709893, 0.20563069, 7.00487, 77.45645, 48.33167, 252.25084
+Venus, 0.72333199, 0.00677323, 3.39471, 131.53298, 76.68069, 181.97973
+Earth, 1.00000011, 0.01671022, 0.00005, 102.94719, 348.73936, 100.46435
+Mars, 1.52366231, 0.09341233, 1.85061, 336.04084, 49.57854, 355.45332
+Jupiter, 5.20336301, 0.04839266, 1.30530, 14.75385, 100.55615, 34.40438
+Saturn, 9.53707032, 0.05415060, 2.48446, 92.43194, 113.71504, 49.94432
+Uranus, 19.19126393, 0.04716771, 0.76986, 170.96424, 74.22988, 313.23218
+Neptune, 30.06896348, 0.00858587, 1.76917, 44.97135, 131.72169, 304.88003
+
+
+
+Table 3. Thermal characteristics of the planets of the Solar System. S is the planetary solar constant, T
+the mean temperature (surface or at 1 bar level for the giant planets), A the geometric albedo, and P the
+atmospheric pressure. Reference: [95Yod].
+
+Planet, S [Wm^−2], T [K], A, P [bar]
+Mercury, 9936.9, 340, 0.106, 0
+Venus, 2613.9, 735, 0.65, 90
+Earth, 1367.6, 270, 0.367, 1.0
+Mars, 589.0, 210, 0.150, 0.0056
+Jupiter, 50.5, 165 ± 5, 0.52, 1
+Saturn, 15.04, 134 ± 4, 0.47, 1
+Uranus, 3.71, 76 ± 2, 0.51, 1
+Neptune, 1.47, 72 ± 2, 0.41, 1
+
+
+
+Table 4. Physical data of the dwarf planets of the Solar System. The ﬁrst two columns give the name,
+minor planet catalogue number, and former designation, respectively. R is the mean radius, M the
+mass, ρ the bulk density, P_rot the sidereal rotation period, and P_orb the sidereal orbit period. Ceres
+is an oblate spheroid with signiﬁcant diﬀerences in the two axes. The two radii along the principal axes
+(equatorial and polar) are given here. The negative rotation period of Pluto indicates its retrograde
+rotation. ∗ The shape of Haumea is extremely elongated with approximate axes as given here. References:
+[07Sei, 05Tho, 95Yod, 08Bro, 06Rab]
+
+Dwarf, Number, R [km], M [10^20 kg], ρ [kg m^−3], P_rot [days], P_orb [years]
+Ceres, 1, 476.4 ± 1.8, 9.395 ± 0.125, 2077 ± 31, 0.378125, 4.607
+Pluto, 134340, 1145, 130.5 ± 0.6, 2030 ± 60, –6.3867, 247.92065
+Eris, 136199, 1200 ± 50, 166 ± 2, 2300 ± 30, 0, 558.75
+Makemake, 136472, 750 ± 150, 0, 0, 0, 306.17
+Haumea, 136108, 616, 42.1 ± 0.1, 2600, 0.1631, 283.28
+
+
+
+Table 5. Mean orbital elements of the dwarf planets of the Solar System at the epoch of JD 2454600.5
+TDB, i.e. May 14, 2008, 00:00h. The orbital elements for Pluto are for JD 2454000.5 TDB corresponding
+to Sep 22, 2008, 00:00h. Data of Makemake and Haumea is at epoch 2454800.5 (2008-Nov-30.0) TDB. a
+is the semi-major axis, e the eccentricity, i the inclination, ω the argument of perihelion, Ω the longitude
+of ascending node, M the mean anomaly at epoch. Inclination, argument of perihelion, and longitude of
+ascending node are referred to the J2000 ecliptic plane. Reference: [08JPL] and references therein.
+
+Dwarf, JD, a [AU], e, i [deg], ω [deg], Ω [deg], M [deg]
+Ceres, 2454600.5, 2.7667817, 0.07954162, 10.58640, 72.96457, 80.40699, 301.6548490
+Pluto, 2454000.5, 39.4450697, 0.25024871, 17.08900, 112.59714, 110.37696, 25.2471897
+Eris, 2454600.5, 67.840, 0.43747, 44.0790, 151.57, 35.9276, 198.490
+Makemake, 2454800.5, 45.426, 0.161, 28.999, 295.154, 79.572, 151.598
+Haumea, 2454800.5, 43.133, 0.195, 28.22, 239.184, 122.103, 202.675

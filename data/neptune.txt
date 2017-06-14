@@ -1,0 +1,43 @@
+Table 17. Mean semi-major axis a, mean eccentricity e, mean inclination i, sidereal orbital period P and
+radii R of Neptune’s small inner satellites at epoch 1989 Aug 18 0.50 TT, referred to the local Laplace
+planes. The declination, Dec., and right ascension, R.A., of the Laplace plane’s pole are given with respect
+to the ICRF. Tilt is the angle between the planet equator and the Laplace plane. Reference: [08JPL] and
+references therein.
+
+satellite, TT, a [km], e, i [deg], P_orb [days], R [km], R.A. [deg], Dec. [deg], Tilt [deg]
+Naiad, 1989 Aug 18.50, 48227, 0.0004, 4.746, 0.294, 33. ± 3., 299.431, 42.940, 0.448
+Thalassa, 1989 Aug 18.50, 50075, 0.0002, 0.209, 0.311, 41. ± 3., 299.431, 42.939, 0.449
+Despina, 1989 Aug 18.50, 52526, 0.0002, 0.064, 0.335, 75. ± 3., 299.431, 42.937, 0.451
+Galatea, 1989 Aug 18.50, 61953, 0.0000, 0.062, 0.429, 88. ± 4., 299.430, 42.925, 0.462
+Larissa, 1989 Aug 18.50, 73548, 0.0014, 0.205, 0.555, 97. ± 3., 299.429, 42.897, 0.490
+
+
+
+Table 18. Mean semi-major axis a, mean eccentricity e, mean inclination i (referred to the ecliptic), and
+sidereal orbital period P of Neptune’s small outer satellites at epoch 2003 Jun. 10.00 TT. Orbital elements
+are referred to the ecliptic plane. The mean radii of these objects range between 20 and 30 km. Reference:
+[08JPL] and references therein.
+
+satellite, TT, a [km], e, i [deg], P_orb [days]
+Halimede, 2003 Jun 10.00, 16611000, 0.2646, 112.712, 1879.08
+Sao, 2003 Jun 10.00, 22228000, 0.1365, 53.483, 2912.72
+Laomedeia, 2003 Jun 10.00, 23567000, 0.3969, 37.874, 3171.33
+Psamathe, 2003 Jun 10.00, 48096000, 0.3809, 126.312, 9074.30
+Neso, 2003 Jun 10.00, 49285000, 0.5714, 136.439, 9740.73
+
+
+
+Table 23. The rings of Neptune. R is the radius, D the optical depth, A the albedo, and W the width
+[08NSS].
+
+Rings, R [km], D, A, W [km]
+Galle (1989N3R), 41900, 0.00008, 0.015, 2000
+LeVerrier (1989N2R), 53.200, 0.002, 0.015, 110
+Lassell (1989N4R), 53.200, 0.00015, 0.015, 4000
+Unnamed, 61950
+Adams (1989N1R), 62933, 0.0045, 0.015, 50
+Courage, 62933, 0.12, 15
+Liberté, 62933, 0.12, 15
+Egalité1, 62933, 0.12, 0.040, 15
+Egalité2, 62933, 0.12, 0.040, 15
+Fraternité, 62933, 0.12, 15

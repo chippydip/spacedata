@@ -1,0 +1,102 @@
+Table 12. Planetocentric Saturn-equatorial orbital elements and sizes of Saturn’s small innermost moons
+at epoch (1) JED 2451545.0, (2) JED 2453491.9, and (3) JED 2453005.5 These moons are located within
+Saturn’s A and F-ring. a is the semi-major axis, e the eccentricity, i the inclination, Ω the longitude of
+ascending node,  the longitude of pericenter, λ the mean longitude. P is the orbital period and R is the
+mean radius [06Spi, 08JPL],^ ∗_[05IAU].
+
+satellite, JED, a [km], e, i [deg], Ω [deg],  [deg], λ [deg], P_orb [days], R [km]
+Pan, 2451545.0, 133584, 0.000035, 0.001, 20, 176, 146.59, 0.57505, 12.8
+Daphnis, 2453491.9, 136504, 0, 0, 0, 0, 222.952, 0.59408, 3.5
+Atlas, 2453005.5, 137670, 0.0012, 0.003, 0.500, 332.021, 129.760, 0.60169, 10
+Prometheus, 2453005.5, 139380, 0.0022, 0.008, 259.504, 63.893, 306.117, 0.61299, 46.8 ± 5.6
+Pandora, 2453005.5, 141720, 0.0042, 0.050, 327.215, 50.676, 253.373, 0.62850, 40.6 ± 4.5
+Janus, 2453005.5, 151460, 0.0068, 0.163, 46.899, 288.678, 171.432, 0.69466, 90.4 ± 3.0
+Epimetheus, 2453005.5, 151410, 0.0098, 0.351, 85.244, 37.847, 346.196, 0.69433, 58.3 ± 3.1
+
+
+
+Table 13. Mean orbital elements and sizes of Saturn’s small satellites at epoch 2004 Jan. 1.00 TT
+referred to Saturn’s equator. These moons are located between the orbits of Mimas and Dione. M is the
+mean anomaly, and ω the argument of pericenter. All other quantities are the same as in the previous
+table. References: [08JPL, 07Sei],^ ∗_[08She].^ ∗∗_Anthe’s elements at epoch 2007 May 30 04:02:02.511 UTC;
+longitudes are measured from ascending node of Saturn’s equator at epoch on the Earth mean equator at
+J2000; i is measured relative to Saturn’s equatorial plane at epoch [08Coo].
+
+satellite, TT, a [km], e, ω [deg], M [deg], i [deg], Ω [deg], P_orb [days], R [km]
+Methone, 2004 Jan 1.00, 194440, 0.0001, 292.695, 163.735, 0.007, 321.745, 1.010, 1.5
+Anthe, 2004 Jan 1.00, 197669, 0.001, 0.16, 5 ± 1, 53.42, 141.715, 1.0365, 0.9
+Pallene, 2004 Jan 1.00, 212280, 0.0040, 216.475, 125.909, 0.181, 114.430, 1.154, 4
+Telesto, 2004 Jan 1.00, 294710, 0.0002, 341.795, 200.143, 1.180, 300.256, 1.888, 11 ± 4
+Calypso, 2004 Jan 1.00, 294710, 0.0005, 234.788, 101.961, 1.499, 25.327, 1.888, 9.5 ± 4
+Polydeuces, 2004 Jan 1.00, 377200, 0.0192, 200.028, 191.220, 0.177, 304.799, 2.737, 2
+Helene, 2004 Jan 1.00, 377420, 0.0071, 292.056, 134.070, 0.213, 40.039, 2.737, 16 ± 4
+
+
+
+Table 14. Mean orbital elements and sizes of Saturn’s irregular satellites at epoch 2000 Feb. 26.00 TT. a
+is the semi-major axis, e the eccentricity, and i the inclination. The latter is referred to the ecliptic. P is
+the sidereal orbital period and R is the satellite’s mean radius. Reference: [08JPL] and references therein,
+and *[08She].
+
+satellite, TT, a [km], e, i [deg], P_orb [days], R [km]
+Kiviuq, 2000 Feb 26.00, 11110000, 0.3289, 45.708, 449.22, 8
+Ijiraq, 2000 Feb 26.00, 11124000, 0.3164, 46.448, 451.42, 6
+Paaliaq, 2000 Feb 26.00, 15200000, 0.3630, 45.084, 686.95, 11.0
+Skathi, 2000 Feb 26.00, 15540000, 0.2698, 152.630, 728.20, 4
+Albiorix, 2000 Feb 26.00, 16182000, 0.4770, 34.208, 783.45, 16
+S/2007 S2, 2000 Feb 26.00, 16725000, 0.1793, 174.043, 808.08, 3
+Bebhionn, 2000 Feb 26.00, 17119000, 0.4691, 35.012, 834.84, 3.0
+Erriapo, 2000 Feb 26.00, 17343000, 0.4724, 34.692, 871.19, 5
+Siarnaq, 2000 Feb 26.00, 17531000, 0.2960, 46.002, 895.53, 20
+Skoll, 2000 Feb 26.00, 17665000, 0.4641, 161.188, 878.29, 3
+Tarvos, 2000 Feb 26.00, 17983000, 0.5305, 33.827, 926.23, 7.5
+Tarqeq, 2000 Feb 26.00, 18009000, 0.1603, 46.089, 887.48, 3.5
+Greip, 2000 Feb 26.00, 18206000, 0.3259, 179.837, 921.19, 3
+S/2004 S 13, 2000 Feb 26.00, 18404000, 0.2586, 168.789, 933.48, 3.0
+Hyrokkin, 2000 Feb 26.00, 18437000, 0.3336, 151.450, 931.86, 4
+Mundilfari, 2000 Feb 26.00, 18628000, 0.2099, 167.473, 952.77, 3.5
+S/2006 S1, 2000 Feb 26.00, 18790000, 0.1172, 156.309, 963.37, 3
+Jarnsaxa, 2000 Feb 26.00, 18811000, 0.2164, 163.317, 964.74, 3
+S/2007 S3, 2000 Feb 26.00, 18975000, 0.1851, 174.528, 977.80, 2.5
+Narvi, 2000 Feb 26.00, 19007000, 0.4308, 145.824, 1003.86, 3.5
+Bergelmir, 2000 Feb 26.00, 19336000, 0.1428, 158.574, 1005.74, 3.0
+S/2004 S 17, 2000 Feb 26.00, 19447000, 0.1793, 168.237, 1014.70, 2.0
+Suttungr, 2000 Feb 26.00, 19459000, 0.1140, 175.815, 1016.67, 3.5
+Hati, 2000 Feb 26.00, 19846000, 0.3713, 165.830, 1038.61, 3.0
+S/2004 S 12, 2000 Feb 26.00, 19878000, 0.3260, 165.282, 1046.19, 2.5
+Bestla, 2000 Feb 26.00, 20192000, 0.5176, 145.162, 1088.72, 3.5
+Thrymr, 2000 Feb 26.00, 20314000, 0.4664, 175.802, 1094.11, 3.5
+Farbauti, 2000 Feb 26.00, 20377000, 0.2396, 156.393, 1085.55, 2.5
+Aegir, 2000 Feb 26.00, 20751000, 0.2520, 166.700, 1117.52, 3.0
+S/2004 S 7, 2000 Feb 26.00, 20999000, 0.5299, 166.185, 1140.24, 3.0
+Kari, 2000 Feb 26.00, 22089000, 0.4770, 156.271, 1230.97, 3.5
+S/2006 S3, 2000 Feb 26.00, 22096000, 0.3979, 158.288, 1227.21, 3
+Fenrir, 2000 Feb 26.00, 22454000, 0.1363, 164.955, 1260.35, 2.0
+Surtur, 2000 Feb 26.00, 22704000, 0.4507, 177.545, 1297.36, 3
+Ymir, 2000 Feb 26.00, 23040000, 0.3349, 173.125, 1315.14, 9
+Loge, 2000 Feb 26.00, 23058000, 0.1856, 167.872, 1311.36, 3
+Fornjot, 2000 Feb 26.00, 25146000, 0.2066, 170.434, 1494.20, 3.0
+
+
+
+Table 21. The rings of Saturn. R is the radius, D the optical depth, A the albedo, T the thickness, S
+the surface density, and e the eccentricity [08NSS].
+
+Rings, R [km], D, A, T [m], S [kg m^−2], e
+D inner edge, 66900
+D outer edge, 74510
+C inner edge, 74658, 0.05 - 0.10, 0.12 - 0.30, 5, 14 - 50
+Titan ringlet, 77871, 170, 0.00026
+Maxwell gap/ringlet, 87491, 170, 0.00034
+C outer edge, 92000, 0.12, 0.2, 5, 20 - 70
+B inner edge, 92000, 0.4 - 2.5, 0.4 - 0.6, 5 - 10, 200 - 1000
+B outer edge, 117580, 1.8
+Cassini divison, 0.05 - 0.15, 0.2 - 0.4, 20, 180 - 200
+A inner edge, 122170, 0.4 - 1.0, 0.4 - 0.6, 10 - 30, 300 - 400
+Encke gap, 133589
+A outer edge, 136775, 0.6, 0.4 - 0.6, 10 - 30, 200 - 300
+F ring center, 140180, 0.1, 0.6, 0.0026
+G inner edge, 170000, 1 × 10^−6, 10^5
+G outer edge, 175000
+E inner edge, 181000, 1.5 × 10^−5, 10^7
+E outer edge, 483000, 10^7

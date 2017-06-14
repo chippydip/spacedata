@@ -1,0 +1,55 @@
+Table 15. Mean equatorial orbital elements and sizes of Uranus’ small inner satellites at epoch (1) 1986
+Jan. 19.50 TT or (2) 2004 Aug. 25.50 TT. a is the semi-major axis, e the eccentricity, ω the argument
+of pericenter, M the mean anomaly, i the inclination, and Ω the longitude of ascending node. P is the
+sidereal orbital period and R is the mean radius. References: [08JPL, 07Sei] and *[08She].
+
+satellite, TT, a [km], e, ω [deg], M [deg], i [deg], Ω [deg], P_orb [days], R [km]
+Cordelia, 1986 Jan 19.50, 49800, 0.0003, 136.827, 254.805, 0.085, 38.374, 0.335, 20.1 ± 3
+Ophelia, 1986 Jan 19.50, 53800, 0.0099, 17.761, 116.259, 0.104, 164.048, 0.376, 21.4 ± 4
+Bianca, 1986 Jan 19.50, 59200, 0.0009, 8.293, 138.486, 0.193, 93.220, 0.435, 25.7 ± 2.
+Cressida, 1986 Jan 19.50, 61800, 0.0004, 44.236, 233.795, 0.006, 99.403, 0.464, 39.8 ± 2
+Desdemona, 1986 Jan 19.50, 62700, 0.0001, 183.285, 184.627, 0.113, 306.089, 0.474, 32.0 ± 4
+Juliet, 1986 Jan 19.50, 64400, 0.0007, 223.819, 244.696, 0.065, 200.155, 0.493, 46.8 ± 4
+Portia, 1986 Jan 19.50, 66100, 0.0001, 222.433, 218.312, 0.059, 260.067, 0.513, 67.6 ± 4
+Rosalind, 1986 Jan 19.50, 69900, 0.0001, 140.477, 136.181, 0.279, 12.847, 0.558, 36. ± 6
+Cupid, 2004 Aug 25.50, 74392, 0.0013, 247.608, 163.830, 0.099, 182.793, 0.613, 5
+Belinda, 1986 Jan 19.50, 75300, 0.0001, 42.406, 357.224, 0.031, 279.337, 0.624, 40.3 ± 8
+Perdita, 2004 Aug 25.50, 76417, 0.0116, 253.925, 192.405, 0.470, 309.376, 0.638, 10
+Puck, 1986 Jan 19.50, 86000, 0.0001, 177.094, 245.796, 0.319, 268.734, 0.762, 81. ± 2.
+Mab, 1986 Jan 19.50, 97736, 0.0025, 249.565, 273.769, 0.134, 350.737, 0.923, 5
+
+
+
+Table 16. Mean semi-major axis a, mean eccentricity e, mean inclination i (referred to the local Laplace
+planes), orbital period P and radii R of Uranus’ irregular satellites at epoch 2004 Jul. 14.00 TT. The
+declination, Dec., and right ascension, R.A., of the Laplace plane’s pole are given with respect to the
+ICRF. Tilt is the angle between the planet equator and the Laplace plane. Reference: [08JPL] and
+references therein.
+
+satellite, TT, a [km], e, i [deg], P_orb [days], R [km], R.A. [deg], Dec. [deg], Tilt [deg]
+S/2001 U 3, 2004 Jul 14.00, 4276000, 0.1459, 145.220, 266.56, 6, 276.911, 64.927, 98.522
+Caliban, 2004 Jul 14.00, 7231000, 0.1587, 140.881, 579.73, 49, 277.436, 64.637, 98.722
+Stephano, 2004 Jul 14.00, 8004000, 0.2292, 144.113, 677.36, 10, 272.003, 66.170, 97.916
+Trinculo, 2004 Jul 14.00, 8504000, 0.2200, 167.050, 749.24, 5, 271.873, 66.318, 97.786
+Sycorax, 2004 Jul 14.00, 12179000, 0.5224, 159.404, 1288.30, 95, 272.154, 66.466, 97.615
+S/2003 U 3, 2004 Jul 14.00, 14345000, 0.6608, 56.630, 1687.01, 6, 272.570, 65.736, 98.278
+Prospero, 2004 Jul 14.00, 16256000, 0.4448, 151.966, 1978.29, 15, 271.470, 66.399, 97.747
+Setebos, 2004 Jul 14.00, 17418000, 0.5914, 158.202, 2225.21, 15, 272.151, 66.317, 97.759
+S/2001 U 2, 2004 Jul 14.00, 20901000, 0.3682, 169.840, 2887.21, 6, 271.934, 66.322, 97.776
+
+
+
+Table 22. The rings of Uranus. R is the radius, D the optical depth, A the albedo, W the width, and e
+the eccentricity [08NSS].
+
+Rings, R [km], D, A, W [km], e
+6, 41837, 0.3, 0.015, 1.5, 0.0010
+5, 42234, 0.5, 0.015, 2, 0.0019
+4, 42571, 0.3, 0.015, 2, 0.0011
+Alpha, 44718, 0.4, 0.015, 4 - 10, 0.0008
+Beta, 45661, 0.3, 0.015, 5 - 11, 0.0004
+Eta, 47176, 0.4, 0.015, 1.6
+Gamma, 47627, 0.3, 0.015, 1 - 4, 0.0011
+Delta, 48300, 0.5, 0.015, 3 - 7, 0.00004
+Lambda, 50024, 0.1, 0.015, 2, 0.
+Epsilon, 51149, 0.5 - 2.3, 0.018, 20 - 96, 0.0079
